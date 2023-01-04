@@ -1,4 +1,4 @@
-### Here you can find my solutions of this event(it's not full because I'm potato, but I solved it all in Kotlin only)
+### Here you can find my solutions of this event(it's not full because I'm potato, but I solved all event(50 stars) in Kotlin only)
 
 # Advent of Code Kotlin Template
 
